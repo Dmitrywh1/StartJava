@@ -23,6 +23,7 @@ public class VariablesTheme {
         System.out.println("Это ноутбук? " + isLaptop + "\n");
         /*
         Задание 2. Расчет стоимости товара со скидкой
+        ку
         */
         int penPrice = 100;
         int bookPrice = 200;
