@@ -1,6 +1,6 @@
 public class VariablesTheme {
     public static void main(String[] args) {
-        /* Задание 1. Вывод характеристик компьютера
+        /* Задание 1. Вывд характеристик компьютера
         Объявление переменных типов данных и присвоение им значений хр-к ПК
         */
         byte numberOfCores = 4;
