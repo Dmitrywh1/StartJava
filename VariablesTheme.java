@@ -1,7 +1,7 @@
 public class VariablesTheme {
     public static void main(String[] args) {
         /* Задание 1. Вывод характеристик компьютера
-        Объявление переменных всех типов данных и присвоение им значений хр-к ПК
+        Объявление переменных типов данных и присвоение им значений хр-к ПК
         */
         byte numberOfCores = 4;
         short processorSpeed = 3200;
